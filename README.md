@@ -38,4 +38,8 @@ The project transforms raw healthcare data into meaningful insights that can sup
 
 ## 👨‍💻 Author
 
-**Kushal**
+**M. Kushal**
+B.Tech – Computer Science Engineering
+
+[LinkedIn](https://www.linkedin.com/in/kushal-medaboina-315020328/) | [GitHub](https://github.com/kushalb8)
+
