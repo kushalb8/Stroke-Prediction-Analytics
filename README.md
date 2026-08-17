@@ -32,7 +32,7 @@ The project transforms raw healthcare data into meaningful insights that can sup
 
 ## 📁 Project Files
 
-* `healthcare.ipynb` – Analysis notebook
+* `health.ipynb` – Analysis notebook
 * Dataset – Healthcare patient records
 * Reports – Analysis and business insights
 
