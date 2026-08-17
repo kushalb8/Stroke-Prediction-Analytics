@@ -1,40 +1,42 @@
 # 🏥 Stroke Prediction Analytics
 
-A healthcare data analytics project that analyzes patient health records to identify patterns and factors associated with stroke occurrence.
+A Python analytics project analyzing healthcare data to identify **stroke-related patterns, patient risk factors, health relationships, and actionable insights**.
 
 ## 🎯 Objectives
 
-* Clean and prepare healthcare data
-* Perform exploratory data analysis
-* Visualize important patterns and relationships
-* Apply statistical analysis and hypothesis testing
-* Engineer meaningful features
-* Generate actionable healthcare insights
+* Understand and prepare healthcare data
+* Identify stroke-related patterns
+* Analyze patient health characteristics
+* Perform statistical analysis
+* Engineer meaningful health features
+* Support data-driven healthcare decisions
 
-## 🛠️ Tools & Technologies
+## 🔍 Key Analysis
 
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* SciPy
+* Missing value and duplicate analysis
+* Outlier detection and treatment
+* Univariate, bivariate, and multivariate analysis
+* Group-based and crosstab analysis
+* Correlation and relationship analysis
+* Hypothesis testing and confidence intervals
+* Feature engineering and evaluation
 
-## 📊 Project Workflow
+## 🛠️ Python Concepts
 
-1. Data Understanding & Preparation
-2. Exploratory Data Analysis & Visualization
-3. Statistical Analysis & Feature Engineering
+**Pandas • NumPy • Matplotlib • Seaborn • SciPy • Data Cleaning • EDA • Statistics • Feature Engineering**
 
-## 💡 Outcome
+## 📁 Repository
 
-The project transforms raw healthcare data into meaningful insights that can support better understanding of stroke risk and preventive healthcare decisions.
+```text
+stroke-prediction-analytics/
+├── datasets/
+├── notebook/
+└── README.md
+```
 
-## 📁 Project Files
+## 💡 Key Insights
 
-* `health.ipynb` – Analysis notebook
-* Dataset – Healthcare patient records
-* Reports – Analysis and business insights
+Identified **stroke-related patterns, patient characteristics, health relationships, and potential risk factors** to support better healthcare analysis and preventive decision-making.
 
 ## 👨‍💻 Author
 
@@ -42,4 +44,3 @@ The project transforms raw healthcare data into meaningful insights that can sup
 B.Tech – Computer Science Engineering
 
 [LinkedIn](https://www.linkedin.com/in/kushal-medaboina-315020328/) | [GitHub](https://github.com/kushalb8)
-
